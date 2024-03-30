@@ -6,7 +6,7 @@ With a diverse background that includes stints as a music producer, an electrici
 As a full stack developer, I'm dedicated to crafting efficient and innovative tech solutions that prioritize connecting users to helpful information through the use of API's.
 Let's collaborate, innovate, and make a positive impact together! ✨
 
-Currently I am learning: Python 3, Figma, Angular, MongoDB
+Currently I am learning: Python 3, C++, MongoDB
 <!---
 cminnich93/cminnich93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
