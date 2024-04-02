@@ -1,5 +1,5 @@
 
-👋 Hello there!
+#👋 Hello there!
 
 I'm Caroline, also known as Cami, a software engineer specializing in backend development.
 With a diverse background that includes stints as a music producer, an electrician, and a teacher, I've always been driven by a passion for creativity and the human race being connected by data.
