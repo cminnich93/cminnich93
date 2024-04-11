@@ -15,6 +15,7 @@ I'm a dedicated and enthusiastic fullstack developer with a focus on backend eng
 - JavaScript
 - Node.js
 - Express.js
+- MySQL
 - MongoDB
 - Git/GitHub
 
